@@ -9,3 +9,8 @@ h1 {
     padding: 50px;
     background-color: #eee;
 }
+
+.portre {
+    width: 150px;
+    float: left;
+}
